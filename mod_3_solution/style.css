@@ -1,0 +1,18 @@
+body{
+    background-color: #F6F5AE;
+    font-family: 'Oxygen', sans-serif;
+}
+h1{
+    text-align: center;
+}
+.navbar-brand{
+    font-size: 32px;
+    font-family: 'Lora', serif;
+}
+.pull-right{
+    text-align: center;
+}
+.bg-secondary{
+    margin: 30px 10px;
+    padding: 20px;
+}
